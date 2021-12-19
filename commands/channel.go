@@ -14,7 +14,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"gopkg.in/urfave/cli"
+	"github.com/urfave/cli"
 
 	"github.com/oddnetworks/roku-cli/rc"
 )

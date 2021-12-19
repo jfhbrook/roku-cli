@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"gopkg.in/urfave/cli"
+	"github.com/urfave/cli"
 )
 
 type FlagSet struct {

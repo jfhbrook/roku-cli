@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"gopkg.in/urfave/cli"
+	"github.com/urfave/cli"
 
 	"github.com/oddnetworks/roku-cli/rc"
 )
