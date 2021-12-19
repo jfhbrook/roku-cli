@@ -5,7 +5,7 @@ import (
 
 	"github.com/urfave/cli"
 
-	"github.com/oddnetworks/roku-cli/commands"
+	"github.com/jfhbrook/roku-cli/commands"
 )
 
 func main() {

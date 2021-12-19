@@ -16,7 +16,7 @@ import (
 
 	"github.com/urfave/cli"
 
-	"github.com/oddnetworks/roku-cli/rc"
+	"github.com/jfhbrook/roku-cli/rc"
 )
 
 var requiredPaths []string = []string{"manifest", "source"}

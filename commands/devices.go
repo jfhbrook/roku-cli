@@ -9,7 +9,7 @@ import (
 
 	"github.com/urfave/cli"
 
-	"github.com/oddnetworks/roku-cli/rc"
+	"github.com/jfhbrook/roku-cli/rc"
 )
 
 func FindDevices(c *cli.Context) error {
