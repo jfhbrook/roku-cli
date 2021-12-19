@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"gopkg.in/urfave/cli.v1"
+	"github.com/urfave/cli/v2"
 
 	"github.com/oddnetworks/roku-cli/commands"
 )
