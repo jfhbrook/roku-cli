@@ -1,4 +1,4 @@
-module roku-cli
+module github.com/jfhbrook/roku-cli
 
 go 1.16
 
